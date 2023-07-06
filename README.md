@@ -1,11 +1,9 @@
 # Sales-Performance-Dashboard
 
-# AirBnB-Tableau-Dashboard
-
 ## Objective: 
 1.  To explore and Analyze the dataset and create a Dashboard with relevant Insights. 
 
-<br>
+
 <br>
 <h2>
 <p><img align="left" height=35 width=35 src="https://assets.materialup.com/uploads/805362d3-e9d6-4aa7-b314-ed9dde22558b/preview.gif"/></p> Analysis Points
