@@ -10,15 +10,15 @@
 </h2>
 <p><img align="right" height=350 width=450 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdThxczg4a2U2MHh1MjJ5aTVraHk1a3Awc3d4Z3JrYXIwYjg4YjFrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif"/></p>
 
-1. Created a bar chart to analyze a top sales percentage by product line .
+1. Created a bar chart to analyze a top sales percentage by product line.
 
-2. Created a pie chart to analyze a sales by territory.
+2. Created a pie chart to analyze sales by territory.
 
-3. Created line chart to analyze percentage of sales by month. 
+3. Created a line chart to analyze the percentage of sales by month. 
 
-4. created graphical representation to analyze sales by country.
+4. created a graphical representation to analyze sales by country.
 
-5. created KPI'S to find Total sales, Gross Margin perrcentage, and avaerage order value 
+5. created KPI to find Total sales, Gross Margin percentage, and average order value 
  
 
 <br>
